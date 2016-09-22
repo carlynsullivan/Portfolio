@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Bio Page</title>
+</head>
+<body>
+	<h1>Student Bio</h1>
+	<h2>Carly Sullivan</h2>
+	<img src="http://www.sideshowtoy.com/photo.php?sku=400302">
+	<p>I was born and raised in Clermont, FL. After graduating high school I attended FSU and got a degree in Sociology. In addition to FL, I have lived in CA and NC. I currently work as a Newborn Hearing Screener and I am enrolled in UCF's Coding Bootcamp.</p>
+	<h2>
+		<ul>
+			<li>Email: <a href="mailto:carlysullivan2@gmail.com">Email Me</a></li>
+			<li>Github: <a href="https://github.com/carlynsullivan">My GitHub Account</a></li>
+			<li>Portfolio: <a href="http://cs.kenji-special.info/">(...Someone else's awesome portfolio...)</a></li>
+		</ul>
+	</h2>
+</body>
+</html>
